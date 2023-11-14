@@ -12,9 +12,13 @@ This are some of the concepts that I must learn to at least be competent and be 
 
 |HTML                          |CSS|
 |----------------|---------------------|
-`Which guidelines to follow for HTML`|`Unknown for now`
-`How to create the skeleton of an HTML5 page`|`Unknown for now` 
-`How to use semantic HTML tags to structure a web page`|`Unknown for now`
-`How to use headings`|`Unknown for now` 
-`How to structure data in a table`|`Unknown for now` 
-`How to correctly structure an HTML page`|`Unknown for now` 
+`Which guidelines to follow for HTML`|`Understanding how to target HTML elements and apply`
+`How to create the skeleton of an HTML5 page`|`Differentiating between block-level and inline-level styling in` 
+`How to use semantic HTML tags to structure a web page`|`Learning about pseudo-classes and pseudo-elements for more specific `
+`How to use headings`|`Techniques for achieving consistent styles across different browsers.` 
+`How to structure data in a table`|`How to setup CSS variables` 
+`How to correctly structure an HTML page`|`How to animate elements in CSS`
+
+-- Every great coding adventure needs a cat by your side. ( ⓛ ω ⓛ ) --
+
+R.I.P Mini
