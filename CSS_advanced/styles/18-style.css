@@ -40,7 +40,7 @@
     --nav-item-font-size: var(--font-size-medium);
     --nav-item-letter-spacing: calc(4% * 1rem);
     --nav-item-display: inline-block;
-    --nav-item-margin: 0 0 3rem;
+    --nav-item-margin: 0 0 3rem 0;
     --nav-item-link-hover: var(--color-primary);
 }
 
@@ -81,7 +81,7 @@ nav {
     list-style: none;
 }
 
-nav.nav-item {
+nav .nav-item {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
@@ -90,15 +90,12 @@ nav.nav-item {
     margin: var(--nav-item-margin);
 }
 
-nav.nav-link {
+nav .nav-link {
     display: block;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.5rem, 1rem, 0.5rem, 1rem;
 }
 
-nav.nav-link:hover {
+nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
 
