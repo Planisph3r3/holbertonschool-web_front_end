@@ -113,6 +113,7 @@ ul.row {
 }
 
 .row::after {
+    grid-row: unset;
     content: none;
     display: table;
     clear: both;
